@@ -1,0 +1,8 @@
+{
+  "name": "ja_gabaritei",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/owenlima/ja_gabaritei.git",
+  "author": "owenlima <owen.liima@gmail.com>",
+  "license": "MIT"
+}
